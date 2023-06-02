@@ -1,0 +1,8 @@
+.parentdiv {
+    padding: 20px;
+}
+
+mat-card app-card{
+    padding-top: 10px;
+    height: 100px;
+}
